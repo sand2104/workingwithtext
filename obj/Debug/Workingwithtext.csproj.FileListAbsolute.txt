@@ -1,0 +1,8 @@
+C:\data\Workingwithtext\Workingwithtext\bin\Debug\Workingwithtext.exe.config
+C:\data\Workingwithtext\Workingwithtext\bin\Debug\Workingwithtext.exe
+C:\data\Workingwithtext\Workingwithtext\bin\Debug\Workingwithtext.pdb
+C:\data\Workingwithtext\Workingwithtext\obj\Debug\Workingwithtext.csproj.AssemblyReference.cache
+C:\data\Workingwithtext\Workingwithtext\obj\Debug\Workingwithtext.csproj.SuggestedBindingRedirects.cache
+C:\data\Workingwithtext\Workingwithtext\obj\Debug\Workingwithtext.csproj.CoreCompileInputs.cache
+C:\data\Workingwithtext\Workingwithtext\obj\Debug\Workingwithtext.exe
+C:\data\Workingwithtext\Workingwithtext\obj\Debug\Workingwithtext.pdb
